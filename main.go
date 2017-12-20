@@ -8,8 +8,8 @@ import (
 	"sync/atomic"
 
 	"github.com/gin-gonic/gin"
+	mgo "github.com/globalsign/mgo"
 	goflags "github.com/jessevdk/go-flags"
-	mgo "gopkg.in/mgo.v2"
 )
 
 type Flags struct {
