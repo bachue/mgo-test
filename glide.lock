@@ -1,5 +1,5 @@
-hash: 642ebec550307f0a3153efc7366dd279b73f6e3e45ece5a0d8f30d3d7e090bf6
-updated: 2017-12-20T11:20:13.819288+08:00
+hash: 25fc2eabe989180f5e02f02f9ef777b8e53ac3eac74d1a8cb8ba2243b7a5fd2b
+updated: 2018-01-24T11:55:44.634177+08:00
 imports:
 - name: github.com/gin-contrib/sse
   version: 22d885f9ecc78bf4ee5d72b937e4bbcdc58e8cae
@@ -9,14 +9,14 @@ imports:
   - binding
   - render
 - name: github.com/globalsign/mgo
-  version: 5be15cc6a44937b6937a9487e1633f8a5fb25e4a
+  version: 896bbb89d21253a28cd5a7f8b81fe091410cb94d
   subpackages:
   - bson
   - internal/json
   - internal/sasl
   - internal/scram
 - name: github.com/golang/protobuf
-  version: 1e59b77b52bf8e4b449a57e6f79f21226d571845
+  version: c65a0412e71e8b9b3bfd22925720d23c0f054237
   subpackages:
   - proto
 - name: github.com/jessevdk/go-flags
@@ -24,7 +24,7 @@ imports:
 - name: github.com/mattn/go-isatty
   version: 0360b2af4f38e8d38c7fce2a9f4e702702d73a39
 - name: github.com/ugorji/go
-  version: 0e0d6e869525973a9b36093f6ddc9d91b9fc2d71
+  version: 9831f2c3ac1068a78f50999a30db84270f647af6
   subpackages:
   - codec
 - name: golang.org/x/sys
